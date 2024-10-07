@@ -63,7 +63,7 @@ Actively advancing my cybersecurity knowledge through industry programs and as a
 
 
 ## Let's Connect!
-<a href="[https://www.linkedin.com/in/liubovkovalova](https://www.linkedin.com/in/liubov-kovalova/)" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/liubov-kovalova/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
